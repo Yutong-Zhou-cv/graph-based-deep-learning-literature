@@ -1,11 +1,11 @@
-# TextGNN: Improving Text Encoder via Graph Neural Network in Sponsored Search
+# Improving Text Encoder via Graph Neural Network in Sponsored Search
 
 ```
 @inproceedings{textgnn_webconf21,
-author = {Jason Zhu and Yanling Cui and Yuming Liu and Hao Sun and Xue Li and Markus Pelger and Liangjie Zhang and Tianqi Yan and Ruofei Zhang and Huasha Zhao},
-title = {TextGNN: Improving Text Encoder via Graph Neural Network in Sponsored Search},
-year = {2021},
-booktitle = {Proceedings of The Web Conference (WebConf)}
+author = {Jason Zhu and Yanling Cui and Yuming Liu and Huasha Zhao and Hao Sun and Xue Li and Markus Pelger and Liangjie Zhang and Tianqi Yang and Ruofei Zhang},
+title = {Improving Text Encoder via Graph Neural Network in Sponsored Search},
+booktitle = {Proceedings of The Web Conference (WebConf)},
+year = {2021}
 }
 ```
 
